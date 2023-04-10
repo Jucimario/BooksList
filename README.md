@@ -18,9 +18,12 @@
     
 <!-- 
 
-instalar RouterDom reponsavel por gerenciar as rotas no React
+## instalar RouterDom reponsavel por gerenciar as rotas no React
 
 npm install react-router-dom@6.10.0
+
+## Reponsavel pelas requisições http no react
+npm install axios
 
 -->
 
