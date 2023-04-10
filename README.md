@@ -14,8 +14,15 @@
 * user ctrl + shift + P abre o Open Settings e adicionar as linhas abaixo:
 
     "emmet.syntaxProfiles": {"javascript": "jsx"},
-    "emmet.includeLanguages": {"javascript": "javascriptreact"},
+    "emmet.includeLanguages": {"javascript": "javascriptreact"}
+    
+<!-- 
 
+instalar RouterDom reponsavel por gerenciar as rotas no React
+
+npm install react-router-dom@6.10.0
+
+-->
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
